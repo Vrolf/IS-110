@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=bil
+comment1.params=modell
+comment1.target=bil(java.lang.String)
+comment2.params=
+comment2.target=int\ hashCode()
+comment3.params=obj
+comment3.target=boolean\ equals(java.lang.Object)
+numComments=4
